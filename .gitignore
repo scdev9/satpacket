@@ -41,18 +41,9 @@
 *.pdb
 
 # Program specifics
-*.png
-!textlogo.png
-!palettes/*.png
-!util/*.png
-*.wav
-aptdec
+
+
+.vscode
 
 .vscode/
-build/
-libpng/
-zlib/
-winbuild/
-winpath/
-libsndfile-1.0.29-win64.zip
-libsndfile-1.0.29-win64/
+
